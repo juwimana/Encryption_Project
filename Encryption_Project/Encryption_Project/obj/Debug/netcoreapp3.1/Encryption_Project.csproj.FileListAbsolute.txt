@@ -1,0 +1,13 @@
+C:\Users\jeanm\source\repos\Encryption_Project\Encryption_Project\obj\Debug\netcoreapp3.1\Encryption_Project.csprojAssemblyReference.cache
+C:\Users\jeanm\source\repos\Encryption_Project\Encryption_Project\obj\Debug\netcoreapp3.1\Encryption_Project.AssemblyInfoInputs.cache
+C:\Users\jeanm\source\repos\Encryption_Project\Encryption_Project\obj\Debug\netcoreapp3.1\Encryption_Project.AssemblyInfo.cs
+C:\Users\jeanm\source\repos\Encryption_Project\Encryption_Project\bin\Debug\netcoreapp3.1\Encryption_Project.exe
+C:\Users\jeanm\source\repos\Encryption_Project\Encryption_Project\bin\Debug\netcoreapp3.1\Encryption_Project.deps.json
+C:\Users\jeanm\source\repos\Encryption_Project\Encryption_Project\bin\Debug\netcoreapp3.1\Encryption_Project.runtimeconfig.json
+C:\Users\jeanm\source\repos\Encryption_Project\Encryption_Project\bin\Debug\netcoreapp3.1\Encryption_Project.runtimeconfig.dev.json
+C:\Users\jeanm\source\repos\Encryption_Project\Encryption_Project\bin\Debug\netcoreapp3.1\Encryption_Project.dll
+C:\Users\jeanm\source\repos\Encryption_Project\Encryption_Project\bin\Debug\netcoreapp3.1\Encryption_Project.pdb
+C:\Users\jeanm\source\repos\Encryption_Project\Encryption_Project\obj\Debug\netcoreapp3.1\Encryption_Project.dll
+C:\Users\jeanm\source\repos\Encryption_Project\Encryption_Project\obj\Debug\netcoreapp3.1\Encryption_Project.pdb
+C:\Users\jeanm\source\repos\Encryption_Project\Encryption_Project\obj\Debug\netcoreapp3.1\Encryption_Project.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\source\repos\Encryption_Project\Encryption_Project\obj\Debug\netcoreapp3.1\Encryption_Project.genruntimeconfig.cache
